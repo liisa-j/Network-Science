@@ -1,0 +1,6 @@
+MARIADB_ROOT_PASSWORD=runopw
+MARIADB_USER=runo
+MARIADB_PASSWORD=runopw
+MARIADB_DATABASE=runodb
+MARIADB_HOST=runodb
+## rename to .dbEnv
