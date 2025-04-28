@@ -1,1 +1,1 @@
-Readme algus
+The source data is present in the "hsci-r" github repository under "filter-data" and "filter-db". Data is serialized to save space (using git-large file format) and the docker setup is built to be able to transform the CSV's into a relational SQL dataset hosted on the local machine. 
