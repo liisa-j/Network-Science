@@ -1,7 +1,8 @@
-Southern Estonia
+---- Southern Estonia -----
 (Halliste, Hargla, Helme, Häädemeeste, Kambja, Kanepi, Karksi, Karula, Kodavere, Kõpu, Maarja-Magdaleena, Nõo, Otepää, Paistu, Puhja, Põlva, Rannu, Räpina, Rõngu, Rõuge, Saarde, Sangaste, Suure-Jaani, Tartu-Maarja, Tarvastu, Tori, Torma, Urvaste, Uulu, Vastseliina, Viljandi, Võnnu, Äksi)
 
-Most typical song types: 
+
+----- 10 most typical song types of Southern Estonia: ------ 
 1. Linnamäng 
 2. Tillukene naine 
 3. Taar hapnema! 
@@ -14,9 +15,10 @@ Most typical song types:
 10. Ei antud veimi
 
 
-1. Linnamäng 
-See all songs of this type from here: https://www.folklore.ee/regilaul/andmebaas/?op=2&oid=1
 
+----- Song examples: -----
+
+1. Linnamäng 
 Laul.
 Ema, ema armas, mina lää liina.
 Mis sa sinna otsma lääd?
@@ -30,8 +32,6 @@ Sulle kingi tuuma.
 
 
 2. Tillukene naine 
-See all songs of this type from here: https://www.folklore.ee/regilaul/andmebaas/?op=2&oid=1
-
 Võtsin naese nastulise
 Pisukese püstolise
 Ärä tema uppus ubalehte
@@ -39,3 +39,248 @@ Pisukese püstolise
 See küll nirki niidäb heina
 See küll kassi kastab kakku
 See küll äbärik äestäb.
+
+
+3. Taar hapnema!
+Taari tehes.
+Meie taar hapneme
+Külanaise kakleme
+Kes joo, see joobnus jääse
+Kes maits, see maha sadas.
+
+
+4. Karjase laul rongale Karjatse laul rongale
+Mööda, valge linnuke'!
+Ütle hääd, keela kurja
+Kaitse ikka meie karja
+Siit tuhka, majalt torrest,
+Mööda, valge linnuke!
+
+
+5. Sõit-sõit sõtsele! 
+Latse põlve pääl tandsitamine
+Sõit sõit tsõtsele
+Üle tee tädile
+Läbi lepiku lellale
+Üle oja onule
+Läbi laane Langule
+Langu latse tõbitse
+Tsõtse tõie sõira
+Tädi tõie täie
+Lell tõi leiba
+Onu tõie ubinit.
+
+
+6. Puud pole ühepikkused
+Neiokõsõ, noorõkõsõ,
+Ärge tõinõ tõist põlgke!
+Kaege tuu mõtsa pääle,
+Mõni puud um pikembä,
+Mõni haava halvõmbat
+Mõni kõivu kõvõrampa.
+Kas na tõinõ tõist põlgva,
+Tõinõ tõõsõ ossakesi?
+Ütte kokko kumardasõ.
+Ütte paika painutasõ,
+Üteh kuuh näil kumaruspaika,
+Üteh paigah painupaika.
+
+
+7. Vend kasvatas, õde ihkab mehele 
+veli kasvati sõsarda
+kasva õde jõua õde
+kasva usse hoitajesse
+muru musta pühkijasse
+marjavarre vahkijasse
+uibuaia hoidajesse
+kuatee kulutejes
+aidatee harutejas
+sai see sõdse kasvanes
+kasvanesse jõudanes
+pia pikasse venune
+sõdse võts kuhat kinteda
+hakkas aama hammeida
+piluteda pihtessida
+käbände kause suida
+veli sõtselta küsisi
+sõnas noori linukene
+kellel kuad kinde'eida
+või sa ajad hammeida
+pilutet sa pihtessida
+Käbärdel käusesuida
+om sul meeli mundel minna
+süa armas muile anda
+kässi kinki kolmatelle
+sõdse kuuli kosti jälle
+veli hella vellekeine
+seda imet ei ole enne ollu
+enne ollu muine kuulu
+et sa sõtsist velle orja
+esäst-emäst laste orja
+sõdse loodu viitavesse
+üle aia antavesse
+Tõisele tõotavesse
+mul o' meeli muile minna
+süüa armas muile anda
+käsi kinki kolmadele.
+
+
+8. Naisetapja 
+Toomas torrõ poisikene,
+Mari matal mehekene,
+kozõ timä naista, võti naista,
+kozä tä ütess kuuss,
+haari ütess hainanguss,
+Jäi timä kabo kauguss
+viibi viiess aastagas.
+Nakas timä naist vihkama,
+peenüt pääd pessäskelemä,
+Nakas timä mahla tahtõmahe,
+vahtravett vaidlõma
+Tul´l täl jutt joogipaigoh,
+tull kõnõ kõrdsipaigoh:
+- Kes mul iks tapazi noorõ naise,
+hukazi innidze eläjä.
+Tull iks mano musta meessi,
+kaldu kalõ süämega.
+Jälki Toomas torrõ poizikõnõ,
+Mari matal mehekene.
+- Ma sul tapa noorõ naaze,
+hukka innidze eläjä.
+Tikas kõo mäele,
+vahtra nõrga nõdzu pääle.
+Naaze ai tä mahlalõ mäele,
+alla vahtõra valuza.
+Naane läts aita ehtimähe,
+päälikohe päädimähe
+Löüze ehte ikõvat;
+löüze kaaladzõ kahitsõvat,
+löüze puutõ puhkuvat.
+Sis timä kündü küzümähe,
+nõssi nõudõmahe:
+- Midäs ikõt ehtekeze',
+midäs puhut puutõkõzõ',
+kaaladzõ' kahitsõlõt?
+Toda mi ikõ, neiokõnõ,
+kabokõnõ kahitsõlõ,
+Jää 'i meil pääle pandijat,
+jää ei sälgäsäädijät.
+Võõras saa meel sälgasäädijä,
+Võõras pääle pandijani.
+Ärä mul minnä', miä tetä'
+ärä kävvü', kohe kästi.
+Minnä mul' mehe miiltä pite,
+kävvü kaza käsku pite.
+Kulla nakse kotost minemä,
+virve kotost veerümä.
+Küdü künni mäe otsa,
+nado kaits karja kaldõh.
+Kuulõ' küdi, pooli veljä,
+nado tsõõri sõzarõni!
+Hoitkõ' mino ulli latsõ',
+Kaegõ katsi mul vaesta.
+Liha-luu ankõ liha jaoss,
+kalapää kala jaoss;
+leeväkoorõ kor´akõ,
+vadza veere vizakõ.
+Küdü keeli vasta kündemäst,
+nado kaits vasta kaldõst:
+Kos sa mul läät kodonaane,
+ärä viirko vele naane.
+sinnä sinno oodõtas,
+ja sinnä hukatas,
+tahetas ja tapõtas.
+Kõik sinnä veerssü verele,
+kõik rõõgõ' rõipõlõ,
+Ärä minnä, mis mul tetä?
+Är' kävvu, kohe kästi.
+Ärä kuuli suuh sobina,
+Kuulsi ruuh robina.
+Miil täl mõtõl mõtusõss,
+süä jauhh jänesess.
+Mahla naas vaadist valama
+kuldakoppa kummutama.
+Tull mano musta miis,
+kuri miis kuusikost.
+Kündü küsümä,
+nõssi nõudõma:
+- Kuas om sul surma suurõmb,
+kuas haigõ haluhõp.
+Naazekõnõ noorõkõnõ
+mõistsõ vasta lausta:
+Ravva om mul surma suurõmp,
+ravva halu haihõhõp.
+Võti sis tupõst tuima ravva,
+vüü alt vaivaväidze,
+Söödi sisse süämest,
+joodi sisse julgõst.
+Ärä tapi noorõ naize,
+hukas innidze eläjä.
+Pia naati peräh otsma,
+varra vaia haarti.
+Täl oll sugu suur ja hõimu pallo
+Viidi nää katsi kohtuvahe.
+mõlõmba mõisijahe.
+Kual sai õigus ülemb,
+kual kohus korgõp?
+Näiol sai õigus ülemb,
+sai kohus korgõp.
+Panti Toomas tulilõ,
+panti kado palavahe.
+Toomas tulita kõnõli,
+palavalt pajatõli:
+Oh sini siibu tsirgukõist,
+kodo jäi mul viis veljä,
+kuus kodo pidäjät.
+Ärä' nimä' nii tekku-i,
+kui tei mina, poizikõnõ.
+Kohe neio matõti?
+Kirivähe ker´kohe
+auzahe alõvahe.
+Oll iks näiol sugu suur,
+oll viis vellötani
+oll kuus kullasta sõsarda,
+kõik iki' väega ilozahe,
+nuudze' väega nobõhahe.
+Kohe Toomas matõti
+lag´a-kaap katõti?
+Suu sääl siuga sinet,
+maa veret märt´ket.
+Suzi sääl käve kääpähe
+jänes nuudzõ nobõhhõhe.
+
+
+9. Ei itke ehteid 
+Kaebe.
+Iste maha ikkemaie
+Muru pääle muretamaie:
+Mis sääl mulle rüppe linnas?
+Sinisiivo sirgukene,
+Vahastjalga varbelane.
+Küsitelli, nõvvatelli:
+Mis sa iked, tütereni?
+Kas sa iked iloehtit,
+Vai kas rõhkad rõõmurõivit?
+"Ei ma ike iloehtit,
+"Ega rõhka rõõmurõivit.
+"Ike oma emaarmu,
+"Omma kallist kasvatajat.
+"Kes mo varra vaeses jäti,
+"Enneaigu armetus,
+"Es ma mõista putro puhku,
+"Ega mõista taari juvva.
+Putro puhe, puhu vali,
+Taari jõie, kaala kaltsi
+Peni puust mul pudro puhe,
+Kassi kaalast taari kase.
+
+
+10. Ei antud veimi
+Pulmalaulud
+Tulli saaja ma saama,
+Persele peenikesta,
+Urule udsu amet.
+Saa-ei saajast midägi!
+Urg lät´s ulvaenna,
+Perse pilli lüvvenna,
+Tuhare toru ajatenna! -
