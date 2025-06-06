@@ -1,7 +1,7 @@
-North-Eastern and Central Estonia
+----- Northeastern and Central Estonia -----
 (Ambla, Audru, Haljala, Harju-Jaani, Järva-Jaani, Järva-Madise, Jõelähtme, Jõhvi, Jüri, Kadrina, Koeru, Kolga-Jaani, Kose, Kuusalu, Laiuse, Lüganuse, Paide, Palamuse, Peetri, Pilistvere, Pärnu-Jaagupi, Põltsamaa, Rakvere, Simuna, Tõstamaa, Türi, Vaivara, Vigala, Viru-Jaagupi, Viru-Nigula, Väike-Maarja, Vändra)
 
-Most typical song types: 
+----- 10 most typical song types of Northeastern and Central Estonia: ---- 
 1. Uurijale 
 2. Ära paista ranna peale! 
 3. Hobu ja härja tüli 
