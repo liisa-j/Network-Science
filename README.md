@@ -1,7 +1,7 @@
 This is the repo for Network Science Project: a Study of Estonian Runosongs’ Themes
 -----------------------------------------------------------------------------------
 
-The code for re-creating the runosong database can be found in the runodb_builder folder. 
+The code for re-creating the runosong database can be found in the runodb_builder folder. The original data is from the Estonian Folklore Archives, but for further information see runodb_builder/README.md. 
 
 The SQL-code that was used to query the database is found in final_view.sql. 
 
